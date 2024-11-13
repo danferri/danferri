@@ -1,8 +1,9 @@
 ## Hi there, I'm Dan 👋
 <br>
 <p><strong>I made a career transition some time ago, and my dream would be to find a position as a software development intern or a junior fullstack developer Node.Js/React.</strong></p>
+
 <div style="display: inline_block"><br>
-  <p>The most used languages here are:</p>
+  <p>The most used languages around here are: 😊</p>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
